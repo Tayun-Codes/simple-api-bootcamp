@@ -1,22 +1,13 @@
-# 📊 Project: Simple API 1
+# 📊 Simple API 1 : Random cat photo & fact
+Display data returned from an api
 
-### Goal: Display data returned from an api
+https://github.com/user-attachments/assets/354df456-31cd-4dc7-b867-fb8fb5631a34
 
-### How to submit your code for review:
+## How It's Made:
+This is built using the following technologies:
+- **JavaScript (JS)**: Employed for both client and server-side functionality.
+- **Random cat photo API**: https://thecatapi.com/
+- **Random cat fact API**: https://cat-fact.herokuapp.com/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## What I Learned
+- How to read API documentation and access the data that I need from objects to then populate on the document
